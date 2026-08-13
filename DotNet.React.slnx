@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/.template.config/">
+    <File Path="template.json" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Backend/">
+    <Project Path="DotNet.React.API/DotNet.React.API.csproj" />
+    <Project Path="DotNet.React.Application/DotNet.React.Application.csproj" />
+    <Project Path="DotNet.React.Domain/DotNet.React.Domain.csproj" />
+    <Project Path="DotNet.React.Infrastructure/DotNet.React.Infrastructure.csproj" />
+    <Project Path="DotNet.React.Persistence/DotNet.React.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/src/Frontend/">
+    <Project Path="DotNet.React.Frontend/dotnet.react.frontend.esproj">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
