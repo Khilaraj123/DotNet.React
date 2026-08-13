@@ -6,18 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Common\Models\" />
-    <Folder Include="Common\Pagination\" />
-    <Folder Include="DTOs\Calendar\" />
-    <Folder Include="DTOs\AdminActionLog\" />
-    <Folder Include="DTOs\Notification\" />
-    <Folder Include="DTOs\Notice\" />
-    <Folder Include="DTOs\User\" />
-    <Folder Include="Interfaces\External\" />
-    <Folder Include="Interfaces\Core\" />
-    <Folder Include="Interfaces\Helpers\" />
-    <Folder Include="Interfaces\Users\" />
-  </ItemGroup>
-
 </Project>
